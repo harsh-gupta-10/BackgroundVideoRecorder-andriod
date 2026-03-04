@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-mergeDebugResources-40:\\layout\\item_recording.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-main-43:\\layout\\item_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-mergeDebugResources-40:\\layout\\activity_recordings.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-main-43:\\layout\\activity_recordings.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.bgrecorder.app-mergeDebugResources-40:/layout/widget_recorder.xml",
+        "source": "com.bgrecorder.app-main-43:/layout/widget_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-mergeDebugResources-40:\\layout\\widget_recorder.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-main-43:\\layout\\widget_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-mergeDebugResources-40:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\harsh\\.gradle\\daemon\\8.13\\com.bgrecorder.app-main-43:\\layout\\activity_settings.xml"
+    }
+]

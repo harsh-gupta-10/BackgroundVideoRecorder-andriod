@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quality_entries">
+        <item>480p (Low)</item>
+        <item>720p (Medium)</item>
+        <item>1080p (High)</item>
+    </string-array>
+    <string-array name="quality_values">
+        <item>480p</item>
+        <item>720p</item>
+        <item>1080p</item>
+    </string-array>
+</resources>
